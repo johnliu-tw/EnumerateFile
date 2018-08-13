@@ -5,8 +5,8 @@ Except for basic function, you can pass some array to set which kinds of path or
 The usage is pretty easy, let start!
 ### Demo
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
+<video src="demo.mp4" width="320" height="240" controls="controls">
+Your browser does not support the video tag.
 </video>
 
 ### Usage
