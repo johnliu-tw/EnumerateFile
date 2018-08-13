@@ -5,9 +5,7 @@ Except for basic function, you can pass some array to set which kinds of path or
 The usage is pretty easy, let start!
 ### Demo
 
-<video src="demo.mp4" width="320" height="240" controls="controls">
-Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjXbszalq-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Usage
 ##### step1. Download file "enumerate_file.py"
